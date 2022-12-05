@@ -20,7 +20,8 @@ This project is deployed in azure with static app and web storage
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![screencapture-purple-meadow-0ce9c6110-2-azurestaticapps-net-2022-12-05-12_36_37](https://user-images.githubusercontent.com/82495769/205572425-170ed534-87f4-434e-9d62-d2f69630200a.png)
+
 
 
 ## Authors
